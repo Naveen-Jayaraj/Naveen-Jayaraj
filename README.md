@@ -70,6 +70,6 @@ Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack 
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/naveen-jayaraj/naveen-jayaraj/blob/output/github-snake-dark.svg)
 
 ---
