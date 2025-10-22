@@ -115,6 +115,20 @@ I aim to make things that *matter.*
 ### ✨ “Code. Create. Contribute.”
 > “Every bug fixed, every model trained, and every commit made — takes us one step closer to innovation.”
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Every+bug+fixed+is+a+lesson+learned;Every+model+trained+is+a+step+toward+innovation;Keep+learning,+keep+building+💡" />
+</p>
+
+<p align="center">
+
+| 🚀 Project | 🧩 Description |
+|-------------|----------------|
+| [**Hybrid IDS**](https://github.com/naveen-jayaraj/Hybrid_IDS) | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBxM29jZDA2aDV0dXFta2VtYWY4ZmVwdXV3NGZ4NHE2djZpazEwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H1dxi6xdh4NGQCZSvz/giphy.gif" width="150"/> <br> Intelligent Network Intrusion Detection |
+| [**AES Essay Scorer**](https://github.com/naveen-jayaraj/AES_EssayScorer) | <img src="https://media.tenor.com/nhW7g0o6clgAAAAd/ai-ml.gif" width="150"/> <br> Deep Learning-based Essay Grader |
+
+</p>
+
+
 ---
 
 <p align="center">
@@ -128,3 +142,8 @@ I aim to make things that *matter.*
 </p>
 
 <h3 align="center">✨ Thanks for stopping by! ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:2962FF&height=100&section=footer"/>
+</p>
+
