@@ -69,3 +69,7 @@ Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack 
 > “Every bug fixed, every model trained, and every commit made — takes us one step closer to innovation.”
 
 ---
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
+---
