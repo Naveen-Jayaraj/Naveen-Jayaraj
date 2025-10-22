@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500"/>
+</p>
+
 <h1 align="center">👋 Ello, I'm <span style="color:#4FC3F7;">Naveen Jayaraj</span></h1>
 <h3 align="center">🚀 AIML Enthusiast | Python Developer | Visionary Coder who loves to make machines think</h3>
 
@@ -19,9 +23,6 @@ I love building **AI-driven systems**, tinkering with **machine learning**, and 
 Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack project connecting communities 🌐 —  
 I aim to make things that *matter.*
 
-<p align="left">
-  <img src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="200"/>
-</p>
 
   </td>
   <td width="40%" align="center" valign="center">
