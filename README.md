@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500"/>
+  <img src="assets/head.gif" width="48%"/>
+  <img src="assets/head2.gif" width="48%"/>
 </p>
 
 <p align="center">
@@ -24,8 +25,7 @@
 Hey there! I'm **Naveen**, a curious soul deeply fascinated by how intelligence can be coded.  
 I love building **AI-driven systems**, tinkering with **machine learning**, and creating tools that blend **logic with creativity**.  
 
-💡 I believe code is not just syntax — it’s *art that thinks.*  
-Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack project connecting communities 🌐 —  
+💡 I believe code is not just syntax — it’s *art that thinks.* Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack project connecting communities 🌐 —  
 I aim to make things that *matter.*
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-jayaraj&theme=tokyonight" alt="naveen-jayaraj streak" />
@@ -50,8 +50,7 @@ I aim to make things that *matter.*
 ### ⚡ A Few Fun Bits
 - 🧩 I enjoy solving logic puzzles & optimizing code until it runs like butter 🧈  
 - 🎵 You’ll often find me coding with some lo-fi beats in the background  
-- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”*  
-- 😄 Fun fact: I think in algorithms before I write them down!
+- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”* - 😄 Fun fact: I think in algorithms before I write them down!
 
 ---
 
@@ -64,46 +63,36 @@ I aim to make things that *matter.*
 
 ## 📬 Connect & Reach Me  
 <p align="center">
-  <!-- Email -->
   <a href="mailto:naveenpainthouse@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Portfolio -->
   <a href="https://naveen-jayaraj.github.io/Portfolio_Website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
-  <!-- Blog -->
   <a href="https://naveenjayaraj.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog on Hashnode"/>
   </a>
-  <!-- Resume -->
   <a href="https://naveen-jayaraj.github.io/Portfolio_Website/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-388E3C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Dev.to -->
   <a href="https://dev.to/@naveen_jayaraj" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <!-- Twitter -->
   <a href="https://twitter.com/jayaraj_naveen" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/naveen-jayaraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Instagram -->
   <a href="https://www.instagram.com/unbreakable_neutrality" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <!-- Hashnode -->
   <a href="https://hashnode.com/@naveenjayaraj" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
-  <!-- LeetCode -->
   <a href="https://www.leetcode.com/naveen_jayaraj" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
@@ -149,4 +138,3 @@ I aim to make things that *matter.*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:2962FF&height=100&section=footer"/>
 </p>
-
