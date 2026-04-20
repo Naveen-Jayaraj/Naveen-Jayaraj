@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/head.gif" width="48%"/>
-  <img src="assets/head2.gif" width="48%"/>
+  <img src="assets/head.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -25,15 +24,18 @@
 Hey there! I'm **Naveen**, a curious soul deeply fascinated by how intelligence can be coded.  
 I love building **AI-driven systems**, tinkering with **machine learning**, and creating tools that blend **logic with creativity**.  
 
-💡 I believe code is not just syntax — it’s *art that thinks.* Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack project connecting communities 🌐 —  
+💡 I believe code is not just syntax — it’s *art that thinks.*  
+Whether it's a Python model detecting tomato leaf diseases 🌿 or a full-stack project connecting communities 🌐 —  
 I aim to make things that *matter.*
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-jayaraj&theme=tokyonight" alt="naveen-jayaraj streak" />
 </p>
-  </td>
-  <td width="40%" align="center" valign="center">
-    <img src="https://camo.githubusercontent.com/6a1b1b17baa3c91481af1d3dafd94a9ae85f7b9e9cb4c38b4cfc79a2c52dab3c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66322f37342f36612f66323734366165313737613566346263623539636630386338643136346231332e676966" width="350" alt="aesthetic laptop gif"/>
-  </td>
+
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://camo.githubusercontent.com/6a1b1b17baa3c91481af1d3dafd94a9ae85f7b9e9cb4c38b4cfc79a2c52dab3c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66322f37342f36612f66323734366165313737613566346263623539636630386338643136346231332e676966" width="350" alt="aesthetic laptop gif"/>
+    </td>
   </tr>
 </table>
 
@@ -50,7 +52,8 @@ I aim to make things that *matter.*
 ### ⚡ A Few Fun Bits
 - 🧩 I enjoy solving logic puzzles & optimizing code until it runs like butter 🧈  
 - 🎵 You’ll often find me coding with some lo-fi beats in the background  
-- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”* - 😄 Fun fact: I think in algorithms before I write them down!
+- 🌈 Motto: *“Stay curious, stay kind, stay caffeinated ☕”*  
+- 😄 Fun fact: I think in algorithms before I write them down!
 
 ---
 
@@ -100,26 +103,16 @@ I aim to make things that *matter.*
 
 ---
 
-
 ### ✨ “Code. Create. Contribute.”
 > “Every bug fixed, every model trained, and every commit made — takes us one step closer to innovation.”
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Every+bug+fixed+is+a+lesson+learned;Every+model+trained+is+a+step+toward+innovation;Keep+learning,+keep+building+💡" />
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBxM29jZDA2aDV0dXFta2VtYWY4ZmVwdXV3NGZ4NHE2djZpazEwMCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/H1dxi6xdh4NGQCZSvz/giphy.gif" width="150"/>
 </p>
-
-<p align="center">
-
-| 🚀 Project | 🧩 Description |
-|-------------|----------------|
-| [**OMR Grading Systen**](https://github.com/Naveen-Jayaraj/OMR-Evaluation-APP) |  <br> Intelligent Network Intrusion Detection |
-| [**Inflation Predictor**](https://github.com/Naveen-Jayaraj/Inflation_predictor) | <img src="https://media.tenor.com/nhW7g0o6clgAAAAd/ai-ml.gif" width="150"/> <br> Deep Learning-based Essay Grader |
-
-</p>
-
 
 ---
 
