@@ -67,53 +67,67 @@ I build systems that <b>learn, predict, and adapt</b>. From computer vision 🚧
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="300">
 
 <a href="https://github.com/Naveen-Jayaraj/BreatheAnalyser_AQI">
-  <img src="https://img.shields.io/badge/🌫️%20BreatheAnalyser-AQI%20Platform-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌫️%20BreatheAnalyser-AQI%20Platform-1E88E5?style=for-the-badge"/>
 </a>
 
 <br><br>
 
 <b>Air Quality Intelligence Platform</b><br>
-FastAPI + React • H3 Geospatial • AQI Forecasting • Redis Cache
+FastAPI + React • H3 Geospatial<br>
+AQI Forecasting • Redis Cache
 
-<br><br><br>
+</td>
+
+<td align="center" width="300">
 
 <a href="https://github.com/Naveen-Jayaraj/LifeForge-app">
-  <img src="https://img.shields.io/badge/🛡️%20LifeForge-Gamified%20Wellness-43A047?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛡️%20LifeForge-Gamified%20Wellness-43A047?style=for-the-badge"/>
 </a>
 
 <br><br>
 
 <b>Gamified Health Tracking RPG</b><br>
-React Native • Kotlin Modules • Context-aware AI • Privacy-first
+React Native • Kotlin Modules<br>
+Context-aware AI • Privacy-first
 
-<br><br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
 
 <a href="https://github.com/Naveen-Jayaraj/OMR-Evaluation-APP">
-  <img src="https://img.shields.io/badge/📝%20OMR%20System-AI%20Grading-F4511E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📝%20OMR%20System-AI%20Grading-F4511E?style=for-the-badge"/>
 </a>
 
 <br><br>
 
 <b>Automated OMR Evaluation</b><br>
-YOLOv12 • Streamlit + Flask • Instant Grading • Analytics
+YOLOv12 • Streamlit + Flask<br>
+Instant Grading • Analytics
 
-<br><br><br>
+</td>
+
+<td align="center" width="300">
 
 <a href="https://github.com/Naveen-Jayaraj/Hybrid-Intrusion-Detection-System">
-  <img src="https://img.shields.io/badge/🔐%20Hybrid%20IDS-Cybersecurity%20AI-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐%20Hybrid%20IDS-Cybersecurity%20AI-6A1B9A?style=for-the-badge"/>
 </a>
 
 <br><br>
 
 <b>Multi-layer Intrusion Detection System</b><br>
-DFA + XGBoost + ANN • Real-time Analysis • Threat Dashboard
+DFA + XGBoost + ANN<br>
+Real-time Analysis • Dashboard
 
-</p>
-
----
+</td>
+</tr>
+</table>
 
 ### ⚡ A Few Fun Bits
 - 🧩 I optimize code until it runs like butter 🧈  
