@@ -75,13 +75,13 @@ I aim to make things that <b>matter.</b>
   <a href="mailto:naveenpainthouse@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://naveen-jayaraj.github.io/Portfolio_Website/">
+  <a href="https://naveen-jayaraj.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://naveenjayaraj.hashnode.dev/">
     <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
-  <a href="https://naveen-jayaraj.github.io/Portfolio_Website/resume.pdf">
+  <a href="https://naveen-jayaraj.github.io/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-388E3C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
